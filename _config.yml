@@ -30,7 +30,7 @@ github_username:  wmalloc
 linkedin_username: wmalik
 
 # Build settings
-theme: jekyll-theme-cayman
+theme: minima
 plugins:
   - jekyll-feed
 
